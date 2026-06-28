@@ -1,5 +1,5 @@
 # delta-demo
-Demo repo for git and github module
+Demo repo for git and github
 
 # Vaibhav - analyze
 new button added
